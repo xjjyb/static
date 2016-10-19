@@ -1,0 +1,141 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;}
+ul{
+	list-style-type:none;
+	}
+a{
+	text-decoration:none;}
+clear{
+	clear:both;}
+#head{
+	height:30px;
+	background:#F1F1F1;}
+#head_con{
+	width:1210px;
+	margin:0 auto;}
+#head_con_left{
+	float:left;
+	line-height:30px;
+	}
+#head_con_left a{color:#000;
+font-size:10px;}
+#head_con_right{
+	float:right;
+	line-height:30px;
+	}
+#head_con_right .c_red{
+	color:#F00;
+	font-size:14px;
+	float:left;
+	margin-top:2px;}
+#head_con_right ul li{
+	float:left;
+	padding-left:10px;
+	color:#DDDDDD;}
+#head_con_right ul{
+	float:left;
+	line-height:30px;
+	} 
+#head_con_right img{
+	float:left;
+	margin-top:4px;}
+#head_con_right li a{
+	color:#000;
+	font-size:10px;
+	padding-right:11px;}
+#head_con_right li a:hover{
+	color:#F00;} 
+/*tupian*/
+#tupian{
+	height:80px;
+	background:#FB3939;}
+#tupian_con{
+	margin:0 auto;
+	width:1210px;}
+/*menu*/
+#menu{
+	height:100px;}
+#menu_con{
+	margin:0 auto;
+	width:1210px;}
+#menu_con_left{
+	float:left;
+	margin-top:20px;}
+#menu_con_mi{
+	float:left;
+	margin:20px 0 0 100px;
+	
+	}
+#menu_con_mi ul{
+	line-height:20px;}
+
+#menu_con_mi ul li{
+	display:inline;
+	font-size:10px;}
+#menu_con_mi ul .zz a{
+	color:#C81623;
+	padding-left:10px;}
+#menu_con_mi ul a{
+	color:#000;}
+
+#menu_con_mi1 #te{
+	width:456px;
+	height:32px;
+	border:2px solid #B61D1D;
+	float:left;}
+#menu_con_mi1 #btt{
+	width:82px;
+	height:36px;
+	border:none;
+	color:#fff;
+	background:#B61D1D;}
+	
+#menu_con_right{
+	float:right;
+	margin:15px 60px 0 0;}
+/*qbsp*/
+#qbsp{
+	height:46px;
+	border-bottom:2px solid #B61D1D;}
+#qbsp_con{
+	width:1210px;
+	margin:0 auto;}
+#qbsp_con h3{
+	float:left;
+	color:#fff;
+	background:#B61D1D;
+	line-height:46px;
+	width:210px;
+	}
+#qbsp_con ul{
+	float:left;
+	line-height:46px;
+	margin-left:30px;}
+#qbsp_con ul li{
+	display:inline;
+	font-size:16px;
+	padding-right:20px;
+	color:#333333;
+	}
+#qbsp_con ul li a{
+	color:#000;}
+#qbsp_con ul li a:hover{
+	color:#F00;}
+/*jd_gg*/
+#jd_gg{
+	height:;}
+#jd_gg_con{
+	width:1210px;
+	margin:0 auto;}
+#jd_gg_con_left{
+	float:left;
+	}
+	
+
+	
+
+
+	
+
